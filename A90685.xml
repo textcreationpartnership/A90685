@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints posture in dark times shewing what  peaceable spirits they should have under dark and unexpected dispensations  : set in a sermon preached in the cathedrall in Gloucester, on the 17th of  March, 1649, being the the Lords day, and the time of the publick assize / by A. Palmer, M.A.</title>
+            <author>Palmer, Anthony, 1618?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90685</idno>
+            <idno type="STC">Wing P217A</idno>
+            <idno type="STC">ESTC R42852</idno>
+            <idno type="EEBO-CITATION">38875846</idno>
+            <idno type="OCLC">ocm 38875846</idno>
+            <idno type="VID">152325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2292:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints posture in dark times shewing what  peaceable spirits they should have under dark and unexpected dispensations  : set in a sermon preached in the cathedrall in Gloucester, on the 17th of  March, 1649, being the the Lords day, and the time of the publick assize / by A. Palmer, M.A.</title>
+                  <author>Palmer, Anthony, 1618?-1679.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill at the Blew Anker in Pauls  Churchyard, neer the little North-doore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, faded and tightly bound.</note>
+                  <note>Reproduction of original in: Sion College Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah XXVI, 8 --  Sermons.</term>
+               <term>Assize sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152325:1" rendition="simple:additions"/>
+            <p>THE SAINTS POSTURE IN DARK TIMES.</p>
+            <p>Shewing what peaceable ſpirits they ſhould have under dark and unex<g ref="char:EOLhyphen"/>pected diſpenſations.</p>
+            <p>SET FORTH In a SERMON Preached in the Ca<g ref="char:EOLhyphen"/>thedrall in <hi>Glouceſter,</hi> on the 17<hi rend="sup">th.</hi> of <hi>March.</hi> 1649.</p>
+            <p>Being the Lords day, and the time of the publick Aſsize.</p>
+            <p>By A. PALMER. M.A.</p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 30.18.</hi>
+               </bibl>
+               <p>Bleſſed are all they that wait for him.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho: <g ref="char:V">Ʋ</g>nderhill</hi> at the Blew Anker in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, neer the little North-doore. 1650.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:152325:2"/>
+            <p>Viro multis nominibus colende <hi>JOHANNI WILDE,</hi> Capitali Scacarii Baroni Judici ſanè aequiſsimo Concionem hanc De Deo expectando Gratitudinis &amp; officii impensè Debiti pignus, humilitèr, &amp; devotè. D. D. D.</p>
+            <closer>
+               <signed>A. Palmer.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152325:2"/>
+            <head>TO MY CHRISTIAN FRIENDS AND READERS, SPECIALLY of the County of <hi>Glouceſter.</hi>
+            </head>
+            <p>SOme of you, the ear-witneſſes of what is here (with a little enlargement) preſented to your view, were pleaſed in a ſerious judgement to proteſt my obligation to publiſh theſe notes, as they might be uſefull towards the quieting and compoſing the ſpirits of the godly in the complaining times we live in; upon this account you have them; Now, on the contrary, ſome may fall a judging me for this attempt; but I ſhall not inſiſt upon the preventing their ob<g ref="char:EOLhyphen"/>jections; If God have the leaſt glory, and any ſoul helpt forward in his bleſſed wayes, by what he hath here taught me, twill, with men, abun<g ref="char:EOLhyphen"/>dantly bear down what ever prejudice or miſ<g ref="char:EOLhyphen"/>priſion can raiſe.</p>
+            <pb facs="tcp:152325:3"/>
+            <p>Onely, if any will ſay, What make I among the Prophets? Let him anſwer himſelf, that grace is free and boundleſſe, and then I ſhall only beg this prayer from him, that, To whom much it forgiven, he may love much: The Lord keep all his people waiting for him, and guide them in ſtrait paths, which is the main import of this weak diſcourſe, and the prayer of</p>
+            <closer>
+               <signed>Yours in the Lord Jeſus: A.P.</signed>
+               <dateline>
+                  <hi>Bourton on the water,</hi> 
+                  <date>26. <hi>Marc:</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152325:3"/>
+            <head>THE SAINTS POSTURE IN DARK TIMES.</head>
+            <epigraph>
+               <q>
+                  <bibl>ISAIAH <hi>Chap.</hi> 26. <hi>ver:</hi> 8.</bibl>
+                  <p>Yea in the way of thy judgements, O Lord, have we waited for thee, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Evangelicall Prophet having in the former Chapter declared the great, and bleſſed deliver<g ref="char:EOLhyphen"/>ances both ſpirituall, &amp; temporall of Jeſus Chriſt to his people, the glorious propagation of the Goſpel, <hi>ver:</hi> 6. of that chapter, <hi>His removing the face of the covering, and the vail from off all people.</hi> v: 7. <hi>The taking away the rebuke of his people from off the face of the earth:</hi> v: 8. <hi>His band reſling upon the mountain of his people, and his enemies troden down under him:</hi> v: 10. At this chap: he hath compoſed a ſong for the Saints and people of God, magnifying the ſtrength, protection, and preſence of the Lord Jeſus Chriſt, aſcribing all the glory un<g ref="char:EOLhyphen"/>to him; ſet forth indeed in a moſt ſweet and admirable holy elo<g ref="char:EOLhyphen"/>quence as any Scripture we meet with.</p>
+            <p>In this letter theſe deliverances, for which this ſong and ex<g ref="char:EOLhyphen"/>altation of the Lord is calculated, may refer either to that bur<g ref="char:EOLhyphen"/>den of the Moabites, deſcribed ſo full of woes, Chap: 15. and 16. or to that famous deliverance by the hand of <hi>Cyrus,</hi> and ſo this ſong may be conceived to be one of thoſe which the Babylonians ſo ſharply taunted them with in the captivitie, <hi>Sing us one of your ſongs of Zion,</hi> Pſal. 137. this the chief of thoſe Songs. But as all that was typicall of Jeſus Chriſt, and the Goſpel-times; ſo this is a ſong for any people ſaved by the Lord, when the times of Chriſts refreſhings are neer, and ſo it may be more then conjectured that the conſummation of that glorious reſt of the Saints, ſet forth,
+<pb n="2" facs="tcp:152325:4"/>
+               <hi>Rev:</hi> 22.14. <hi>Bleſſed are they that have right to the tree of life, and may enter in through the gates to the City,</hi> may refer to the two firſt verſes of this chapter and Song.</p>
+            <list>
+               <item>1. Here then briefly you have the Church ſet forth in a very glorious metaphor, <hi>As a ſtrong City, God appointing ſalvation f<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> bulwarks,</hi> ver: 1.</item>
+               <item>2. The Citizens, the Saints entring into it, deſcribed by a moſt excellent character. <hi>The righteous nation keeping truth.</hi> ver: 2.</item>
+               <item>3. Their moſt choice and glorious priviledge at the 3<hi rend="sup">d</hi>: verſe, <hi>Kept in perfect peace.</hi>
+               </item>
+               <item>4. Their lifting up of the name of the Lord as their everlaſt<g ref="char:EOLhyphen"/>ing ſtrength. <hi>v:</hi> 4. the rock of ages as the originall.</item>
+               <item>5. The ſtrange revolutions and turnings of things upſide down, <hi>v:</hi> 5, 6. <hi>He bringeth down them that dwell on high; and the lofty City, and the poore, the feet of the poore ſhall tread i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> down.</hi>
+               </item>
+            </list>
+            <p>At the 7<hi rend="sup">th.</hi> their adoring the righteouſneſſe of God in all his wayes and diſpenſations, we have ſeverall readings of that Scri<g ref="char:EOLhyphen"/>pture, <hi>The way of the just is uprightneſſe: Via justo rectitudines,</hi> as the moſt proper and genuine, that is, The way of God to the juſt is uprightneſſe, and thou weigheſt the path of the juſt, thou makeſt it to appear to be an exact regular way of righteouſneſſe; And under all the varieties of his righteous diſpenſations, they wait<g ref="char:EOLhyphen"/>ed upon him in them: <hi>Yea in the way of thy judgements have we wait<g ref="char:EOLhyphen"/>ed for thee,</hi> &amp;c.</p>
+            <p>In which words you have them minding themſelves of that bleſſed poſture, and frame of ſpirit the Lord put them into, under all his various dealings; We waited for thee; which with the context may be thus analyſed.</p>
+            <p>Thine, and our enemies charge thy wayes to be anxious, im<g ref="char:EOLhyphen"/>plicate, and irregular, and thence break forth and murmure, yea blaſpheme. But to us whoſe minds were ſtayed on thee, <hi>Complanas viam,</hi> thou cleareſt up all thy wayes, as beautifull and regular; and we have <hi>waited upon thee, for thee,</hi> in them.</p>
+            <p>Whence this plain, and I hope ſeaſonable obſervation:</p>
+            <p>
+               <hi>That when God walks in ſtrange and various diſpenſarions towards his people, and towards his enemies, his people are to wait upon him, to wait for him.</hi>
+            </p>
+            <p>In the handling of which, I ſhall firſt open the duty, ſhewing
+<pb n="3" facs="tcp:152325:4"/>the excellency of this frame of ſpirit; lay down the grounds and reaſons of the point; and ſo bring it down to the diſpenſations we live under; Now to make up this frame of ſpirit, you have theſe choice ingredients.</p>
+            <p n="1">1. It is a poſture of relyance and rowling upon God, making him alone our rock, our ſalvation, our defence, our refuge; as you have <hi>David</hi> ſweetly giving forth this part of it, <hi>Pſal.</hi> 62. A re<g ref="char:EOLhyphen"/>nouncing of all other refuges whatſoever, no calling to Aegypt, or Aſſyria for aid and ſuccour; but ſtrengthening themſelves in the rock of ages, and thence reaſoning themſelves into an aſſured ſafetie; therefore <hi>we ſhall not be greatly moved,</hi> v: 2. of that <hi>Pſalm:</hi> and <hi>we ſhall not be moved:</hi> v. 6. not moved at all, as <hi>Davids</hi> faith there gets ground upon God.</p>
+            <p>This is the venture, and reſolved recumbency upon the All ſufficiencie of <hi>Jehovah,</hi> given forth in ſo many clear and ſtedfaſt promiſes, wherein he ſtands recorded the unchangeable rock of his people, a refuge from the ſtorme, a ſhadow from the heat when the blaſt of the terrible ones is againſt the wall, <hi>v:</hi> 4. of the former Chapter; and as excellently given forth in that bottome promiſe, <hi>The eternall God is thy refuge, and underneath the everlaſting arms. Deut.</hi> 33.27. Now while the great God is fulfilling thoſe upon the face of the earth, in <hi>the beginnings of revenges</hi> upon his enemies, <hi>Deut.</hi> 32.42. his right hand teaching him terrible things, and ap<g ref="char:EOLhyphen"/>pearing the God of his people, under all his various diſpenſati<g ref="char:EOLhyphen"/>ons his people ſhall <hi>truſt in him at all times: Pſal.</hi> 64.8. they ſhall ſtill gather in their ſpirits, and anſwer all their fears, with this, we will wait upon him, who is our Rock, mighty and able to ſave. This is the firſt ingredient in this frame of ſpirit, tis to have our minds ſtayed upon God.</p>
+            <p n="2">2. Tis a poſture of expectation; <hi>Pſal.</hi> 62.5. <hi>My ſoul wait thou up<g ref="char:EOLhyphen"/>on God, for my expectation is from him. A watching for God.</hi> Pſal. 130.6. <hi>A ſtanding ſtill to ſee the ſalvation of the Lord.</hi> Not running before the Lord, not preſcribing unto him, or limiting him unto our wayes or ſeaſons; laying aſide our own counſels, and inventions, and waiting for the counſell of the moſt wiſe God, having our eyes fixed, and our expectation clear and pure upon him. Though he tarry yet to wait for him: <hi>Hab.</hi> 2.3. This the ſecond ingredi<g ref="char:EOLhyphen"/>ent to make up this frame of ſpirit, to have our expectation clear upon God.</p>
+            <pb n="2" facs="tcp:152325:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:152325:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:152325:6"/>
+            <p n="3">3. Tis a poſture of ſubmitting unto the Lord; putting our monthes in the duſt, yeelding unto him, even when he writes bitter things againſt us; when he puts a cup of trembling into our hands, humbling our ſelves, under his mighty hand. <hi>Deut.</hi> 33.3. <hi>Yea he loved the people. And all his Saints are in thy hand, and they ſate down at thy feet.</hi> At the feet of God, ſubmitting to the tea<g ref="char:EOLhyphen"/>chings of God, and the outward diſpenſations of God. <hi>Jerome</hi> reads, we waited, <hi>Suſtinuimus te,</hi> we have ſuſtained God, we have yeelded unto thee, we have nothing to plead againſt thee, out lives, our all are in thy hand. And therfore glorifie thy greatneſſe upon us as is good in thine own eyes. This the third thing, a ſub<g ref="char:EOLhyphen"/>miſſion unto God in his various diſpenſation.</p>
+            <p n="4">4. Not only a ſubmiſſion but higher, tis a poſture of conten<g ref="char:EOLhyphen"/>tation; thou wilt keep him in perfect peace whoſe minde is ſtaied on thee, ver: 3. A compoſed contentedneſſe with all the wayes of God, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that tranquillity and clearneſs of ſpirit which gives a man the poſſeſſion of his own ſoul; A ſpirit freed from reaſonings, frettings, complainings and contendings with God, but fetcht down, and ſubdued by the mighty working of God, to be contented with all his various diſpenſations and changes, how croſſe ſoever to our contrivements. This the 4<hi rend="sup">th.</hi> thing, A contentedneſſe under Gods diſpenſations.</p>
+            <p n="5">5. Yea farther. Fifthly, Tis a poſture of admiration; ſo, <hi>Iſa.</hi> 25.1. <hi>Thou art my God, I will exalt thee; I will praiſe thee, for thou haſt done wonderfull things;</hi> All the wayes of God are full of wonders, and he delights to have them ſought out of all that fear him, to be admired in them. So <hi>Pſal.</hi> 65. <hi>Praiſe waiteth for thee in Zion:</hi> his people wait to praiſe, and admire him in all his dealings towards them. I might inſtance in more particulars, but theſe take in the main of the duty; Every grace of the ſpirit having its peculiar acting to make up this harmony of a waiting poſture; Take them then together.</p>
+            <p>Thus to relye, to expect, to ſubmit to, to be contented, to ad<g ref="char:EOLhyphen"/>mire, and magnifie the wiſe and holy God, in all his dark and various diſpenſations, is a covenant frame of ſpirit whereby God entitles himſelf to any ſoul, to any people; tis, in a word, to have the Lord for our God.</p>
+            <p>Now having opened the duty it ſelf; the next thing is to clear
+<pb n="5" facs="tcp:152325:6"/>the point, and the grounds of it; That his people are thus to wait upon him, to exerciſe theſe graces, when God is in a way of various and ſecret diſpenſations towards them.</p>
+            <p>I might ſhew you the people of God frequent in this bleſſed poſture, when God was making bare his arm unto them; A Scri<g ref="char:EOLhyphen"/>pture or two to clear it. See 2 <hi>Chron.</hi> 20.12. <hi>O our God, wilt thou not judge them? for we have no might against this great company that cometh against us: neither know we what to do,</hi> what then? why, <hi>our eyes are upon thee, we wait upon thee.</hi>
+            </p>
+            <p>Thus when God walked in ſuch hidden paths to his people, and brought them into ſuch ſad depths, <hi>Lament.</hi> 3.26. we know not what to do; the Prophet at laſt, in the name of the Church, reſolves all their lamentations, complaints, and ſinkings into this poſture of ſpirit; <hi>It is good that a man ſhould both hope, and quiet<g ref="char:EOLhyphen"/>ly wait for the ſalvation of the Lord.</hi> In how many Pſalms have you <hi>David</hi> in behalf of himſelf and the Church, working his heart into this poſture: <hi>Pſal.</hi> 62.1. <hi>Truly my ſoul waiteth upon God,</hi> or notwithſtanding, as the originall; abruptly breaking forth from the reaſonings of his own ſpirit, and the apprehenſions of the depths he was in, Be it ſo, notwithſtanding my ſoul waiteth upon God; it ſhall truſt, and hope, and ſubmit, and be contented with all his wayes.</p>
+            <p>Firſt, the wayes: of God are ſecret wayes,<note place="margin">Reaſ. <hi>1.</hi>
+               </note> therefore his people are to wait upon him in them. A way full of depths. See <hi>ſa.</hi> 40.12. <hi>Who hath meaſured the waters? or weighed the mountains in a ba<g ref="char:EOLhyphen"/>lance? So who hath taught him in the path of his judgements?</hi> that is, <hi>who is of his counſell,</hi> who can ſearch them out? He <hi>walks in the waters, and his paths are in the Sea, and his footſteps are not known:</hi> Pſal. 77. <hi>Thy judgements are a great depth.</hi> Pſal. 36.6. As in the Pſalms, ſo you have many full and excellent Scriptures ſpeak to this in the book of <hi>Job. Touching the Almighty, who can find him out? Why doeſt thouſtrive againſt him? for he giveth no account of his matters. Job</hi> 33.13. And this puts <hi>Paul</hi> himſelf to his, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 11.33. ſometimes he walks as tous, antipodes to his promiſes (although no pro<g ref="char:EOLhyphen"/>vidence but is reconcileable to a promiſe) tis hard to reconcile providences and promiſes, when he walks in ſuch depths of wiſdom and judgement that his people cannot diſcern him, he leaves no footſteps behinde him; And in ſuch wayes he delights
+<pb n="6" facs="tcp:152325:7"/>to walk in, that his people may wait for him in them; This the firſt; Gods way in his diſpenſations, is a ſecret way, therefore to wait upon him in them.</p>
+            <p n="2">2. The way of God, though it be a ſecret way full of involu<g ref="char:EOLhyphen"/>tions, as to us; yet it is an exact regular way of righteouſneſſe, mercy, and truth. <hi>Deut.</hi> 32.4. <hi>His works are perfect, and all his wayes are judgement.</hi> When <hi>Jeremy</hi> would plead with God as to his judg<g ref="char:EOLhyphen"/>ment, firſt he layes down this as moſt unqueſtionable, that God was righteous in them all: <hi>Jer:</hi> 12.1. His walkings may ſeem to us as croſſe paths thwarting one with another; yet take them together, and they are all <hi>rectitudines,</hi> all conſpiring to a moſt regular, wiſe and holy end; Though he walks in a cloud as to us, yet he ſhines in the light of his own righteouſneſſe; let men finde out to themſelves what crooked paths they pleaſe, as you may ſee <hi>Iſa.</hi> 49.13. <hi>Yet God puts on righteouſneſſe as a breast-plate,</hi> and can uſe a crooked tool to bring about a regular work; God with-drawing his light, he is not bound to give; and ſo he leaves the creature to his own wayes, and he orders a glorious end out of them: man through reaſonings, darkneſſe, unbelief of his heart ſees it not, yet ſtill his wayes are deliberately ordered, therefore his people to wait upon him in them; thats the ſecond ground.</p>
+            <p n="3">3. When God gives great mercies, when his hand is open and ready to poure them forth, he puts his people in a waiting po<g ref="char:EOLhyphen"/>ſture for ſuch mercies. See <hi>Iſa.</hi> 30.18. <hi>Therefore will the Lord wait that he may be gracious unto you, and therefore will he be exalted that he may have mercy upon you: for the Lord is a God of judgement. Bleſſed are all they that wait for him.</hi> So you have the Church moving him to be gracious upon this account: <hi>Iſa.</hi> 33.2. <hi>O Lord, be gracious unto us, we have waited for thee:</hi> yea the moſt glorious promiſe that our eyes are upon, hath in its fulfilling reſpect unto thy poſture: <hi>Iſa.</hi> 49.23. <hi>And kings ſhal be thy nurſing fathers, and their queens thy nurſing mothers: they ſhall bow down to thee with their face towards the earth, and lick up the dust of thy feet, and thou ſhalt know that I am the Lord: for they ſhall not be aſhamed that wait for me.</hi> It may be more then gueſt, what deſigne God hath towards his people, by the poſture they are in. He raiſeth up the ſpirits of his people to an expecta<g ref="char:EOLhyphen"/>tion of the mercy he gives; This might be abundantly diſco<g ref="char:EOLhyphen"/>vered
+<pb n="7" facs="tcp:152325:7"/>by the experiences of Gods people, had I time to ſhew it.</p>
+            <p n="4">4. God reveals great ſecrets to thoſe who wait upon him, and for him; this another ſpeciall ground of the point. There is no<g ref="char:EOLhyphen"/>thing but I will make known to my ſervants the Prophets.</p>
+            <p>
+               <hi>As the eye of the handmaid,</hi> &amp;c. <hi>Pſal.</hi> 123. The ſervant that waits cloſely and diligently on his maſter, knows much of his maſters minde and ſecrets; So the ſoul that waits cloſely upon God, knows much of the minde of God. Many a precious ſecret hath a ſoul, that truly waits for him.</p>
+            <p>
+               <hi>Abrabam</hi> was an humble man, that had much converſe with God, and he revealed that great ſecret of deſtroying Sodome and Gomorrah unto him.</p>
+            <p n="1">1. He reveals directing ſecrets unto his people, in the 2 <hi>Chron.</hi> 18. good <hi>Micaiah,</hi> who waited humbly, and cloſely upon God, had a ſecret revealed unto him, that <hi>Ahab,</hi> if he went up to Ra<g ref="char:EOLhyphen"/>moth Gilead, he ſhould fall, and periſh in it. When there were foure hundred of the moſt eminent formall prophets of the land adviſed him <hi>to go up, and God would deliver it into the Kings hand, ver:</hi> 10. So in that ſolemne waiting upon God, Chap. 20. of that book, when they were enquiring a right way of God, <hi>Jahaziel</hi> hid a ſecret that the people <hi>ſhould go up and proſper: for God was with them.</hi> When his people are in great ſtraits, and brought into lowe depths, then they wait for him, and are guided by his counſell; As their eyes upon him, ſo his eye upon them alſo to guide them in all their wayes.</p>
+            <p n="2">2. He reveals ſtrengthning, refreſhing ſecrets to thoſe that wait for him; <hi>Pſal.</hi> 27.14. <hi>Wait on the Lord, and he ſhall ſtrengthen thine heart.</hi> So another choice Scripture to this, <hi>Iſa.</hi> 40. laſt. <hi>But they that wait on the Lord ſhall renew their ſtrength: they ſhall mount up with wings as eagles, they ſhall run and not be weary, and they ſhall walk and not be faint.</hi> To omit many curious gloſſes of ſome of the Fa<g ref="char:EOLhyphen"/>thers upon this Scripture, this I take to be the import of it; the Eagles do looſe their feathers, and renew them, and ſo are ſaid <hi>repueraſcere,</hi> to wax young again; ſo the people of God under many faintings and finkings of ſpirit, when God walks in a cloud to<g ref="char:EOLhyphen"/>wards them, they renew their ſtrength by waiting upon God, when weary, and fainting by inward diſtreſſes of ſpirit, and the inundations and oppreſſions of enemies. Then the Lord comes in
+<pb n="8" facs="tcp:152325:8"/>with a refreſhing ſecret, to bear up their ſpirits in waiting upon him. Thus <hi>David, Pſal.</hi> 130.1. <hi>Out of the depths have I cryed unto thee O Lord.</hi> But what relieved him in theſe depths, he would wait upon his God, <hi>I wait for the Lord, my ſoul doth wait, my ſoul waiteth for the Lord:</hi> ver. 5, 6. as he is there working and compoſing his ſpirit to that quieted poſture. In a word, that infinite good God that reveals the greateſt ſecret that ever was in heaven to his freinds, the ſecret of the Covenant of his grace. <hi>Pſal.</hi> 25.14. and <hi>Joh.</hi> 15.15. <hi>I have called you freinds, for all that I have heard of my Fa<g ref="char:EOLhyphen"/>ther I have made known unto you.</hi> He, I ſay, that reveals that ſecret to a ſoul, will not deny any directing, ſtrengthning, refreſhing ſecret that is fit for that ſoul to receive.</p>
+            <p>This is the 4th ground, God reveals great ſecrets to thoſe that wait for him.</p>
+            <p n="5">5. It is of bleſſed example to all that fear God, it puts an ex<g ref="char:EOLhyphen"/>cellency and beauty upon godlineſſe. This uſe <hi>David</hi> makes of it. <hi>Pſal.</hi> 52.9. <hi>I will wait on thy name, for it is good before thy Saints.</hi> It is good and comely before the Saints of God, to wait upon, to truſt, to expect, to ſubmit, to be contented with Gods wayes; thats the 5th. thing, the people of God encourage one another in keeping cloſe unto God, by waiting on him.</p>
+            <p n="6">6. The Lords ſtay is not long to thoſe who wait for him. See ver. 20 of the Chap: of my text: <hi>Come my people, enter thou into thy chambers, and ſhut thy doors about thee: hide thy ſelf but for a little mo<g ref="char:EOLhyphen"/>ment,</hi> &amp;c. So <hi>Iſa</hi> 54.7, 8. for a ſmall moment, &amp;c. And in a little wrath, &amp;c. The ready way to keep God off, is to murmure againſt his abſence; but quietly to wait for him, is to bring him down with <hi>great mercies, and everlaſting kindneſſes,</hi> as that Scripture. This the laſt ground I ſhall propoſe to back the Argument I am upon, his ſtay in no condition or ſtrait to his people is long, therefore to wait for him.</p>
+            <p>Thus have I endeavoured to lay before you the nature, extent, and excellency of this frame of ſpirit of waiting upon God, with the grounds and reaſons of the duty. Now I ſhall endeavour to meet with ſuch evils that oppoſe this frame of ſpirit, and to draw forth ſuch ſeaſonable leſſons, as may help in the practice of that duty.</p>
+            <p n="1">1.<note place="margin">Appli: <hi>1.</hi>
+               </note> If ſuch a pretious duty be incumbent upon all the people of
+<pb n="9" facs="tcp:152325:8"/>God thus to wait upon him under his various diſpenſations; it then meets with foure great and abounding evils too rife among us. 1. Neglecting the diſpenſations of God. 2. Miſapplying them. 3. Murmuring againſt them. 4. Our preſcribings to God.</p>
+            <p n="1">1. Neglecting, regardleſly ſlighting the ſtrange, and various judgements and dealings of God with us. Theſe you have deſcri<g ref="char:EOLhyphen"/>bed at the 10.11. and 12. verſes of the chap. of my text, when the judgements of God <hi>are in the earth, they will not learn righteouſ<g ref="char:EOLhyphen"/>neſſe,</hi> neither the righteouſneſſe of God in the world, nor righte<g ref="char:EOLhyphen"/>ouſneſſe for themſelves.</p>
+            <p>
+               <hi>That will not behold the Majeſty of the Lord,</hi> breaking forth the glory of his judgements in the world: That <hi>when his hand is lified up, they will not ſee;</hi> they will not, they will not, denoting even an utter obſtinacy, and obdurateneſſe of ſpirit, hardening their faces againſt the mighty God. I might give many Scrip<g ref="char:EOLhyphen"/>tures to diſcover the wretched condition of ſuch, need I more then what is ſaid of them <hi>v:</hi> 14. <hi>They are dead, they ſhall not live;</hi> Though yet living, yet but as dead men in Gods account; they are deceaſed, they ſhall not riſe; riſe no more, but viſited, deſtroy<g ref="char:EOLhyphen"/>ed, and all their memory periſh.</p>
+            <p>Are there not multitudes, multitudes to be found (much to be feared) even given up to ſuch a deep ſleep, ſuch a ſenceleſſe, ſtu<g ref="char:EOLhyphen"/>pid obduration of heart, while God is powring forth his vials upon them.</p>
+            <p>What heart in any meaſure affected with the honour of the great God, can chooſe but be aſtoniſhed, and tremble to hear and obſerve their Atheiſticall darings of God, braving it out againſt him, and too many, alas, of the gallantry of our Nation, as they ſtile themſelves, men, as to a preſent diſcerning, reſolved upon the pleaſures of ſin for a ſeaſon, and will venture for eter<g ref="char:EOLhyphen"/>nity: that give not themſelves the leaſure to conſider where they are, to reflect upon themſelves, but paſſe from one dark delight to another, to ſtifle naturall conſcience, and to drown themſelves in their luſts, that the fear of an avenging God may not ſeize upon them. Ah, oh fearleſſe ſouls! <hi>ſeek ye out of the book of the Lord, and read, Iſa.</hi> 34.16. what vials of wrath are there ſtored up, and are now began to be powred forth; now the indignation of the Lord is upon all nations, now he is <hi>come forth of his place, to
+<pb n="10" facs="tcp:152325:9"/>Puniſh the inhabitants of the earth:</hi> ver: the laſt of the Chap. of my text. When no place for your exceſſe of riot, what will you do in the day of Gods viſitation? what will you plead to the dreadfull God? oh, fall down at his feet, and viſit him, while he is viſiting you, leaſt he <hi>tear you peices, and there be none to deliver;</hi> Theſe are yet ſo far from having any thing to do with the duty of the text, that tis but a deriſion with them; this the firſt thing utterly re<g ref="char:EOLhyphen"/>pugnant to the leſſon in hand.</p>
+            <p n="2">2. It meets with our miſapplying the judgements and diſpen<g ref="char:EOLhyphen"/>ſations of God, when the enemies of God, and his people <hi>ſhall ſeem to lean upon the Lord, Is not the Lord amongſt us? Micha</hi> 3.11. Yea many that fear God have ſure been too buſie here, too buſie with the ſanctuary of God, with the ſecrets of his counſell, the depths of his walkings towards us; If we would ſerve providence in<g ref="char:EOLhyphen"/>tentionally and regularly, it muſt be in Gods way, ſutable to his revealed will; but when God walks in the waters, there we cannot follow him: we can onely ſtand ſtill, and admire him, and wait upon him. Though the depths of providence are to be wiſely conſidered of, God, I ſay, to be admired in them, yet not to be too buſie in unwarrantable pryings into, and determinings of his counſell, and ſo miſapplying his glorious diſpenſations.</p>
+            <p>Thus, we ſhould attend upon the Lord with leſſe diſtraction, we ſhould be more ſteady in our waies, then we are, yea we ſhould more comfortably wait upon our God, then we do. This the ſecond.</p>
+            <p n="3">3. It meets with our murmurings againſt the ſtrange and va<g ref="char:EOLhyphen"/>rious diſpenſations of God, our repinings, reaſonings, aeſtuations of ſpirit, againſt his ſecret wayes, ſome of a higher nature to be joyned with the former rank of men, growing up to an Atheiſti<g ref="char:EOLhyphen"/>call accuſing the very righteouſneſſe of God, in his permiſſive ordering providence in the great revolutions that we have been under. But I leave ſuch to what I have ſaid before. I ſhall ſpeak to theſe leſſer mixtures of theſe murmurings, even with thoſe that fear God; Murmuring hath like a ſecret canker, even eat out of the ſpirits of many this ſubmiſſive contented waiting up<g ref="char:EOLhyphen"/>on God; how rife and abounding theſe are, our own mouths ac<g ref="char:EOLhyphen"/>cuſe us one to another. This is a very great diſtemper of ſpirit amongſt us; oh what intemperate (to ſay no more) repinings,
+<pb n="11" facs="tcp:152325:9"/>reaſonings, impatient frettings againſt the preſent diſpenſations of God towards us; and truly theſe do not terminate upon men, but break through men, and ere you are aware, fall foule upon God himſelf. See <hi>Exod:</hi> 16.8.</p>
+            <p>Give me leave, I beſeech you, a little to argue with you; What if there are ſtrange turnings of things upſide down, the <hi>Lord ſtain<g ref="char:EOLhyphen"/>ing the pride of all the glory of the Nation, whoſe glorious beauty is as a fa<g ref="char:EOLhyphen"/>ding flower? Iſa.</hi> 28.1. What if the wayes of God be full of ſtraits in the hands of men, cannot be traced by you? yea more, what if you ſay you cannot reconcile the exact righteouſneſſe of God, to the crooked paths of men? will you thence fret, and murmure, and charge God fooliſhly? Let me be bold to tell you, you do no better, by the impatient complaints you are ſtill powring forth; let me ask you; Is not every diſpenſation regular as to God, and wiſely ordered by his counſell? why then do you not ſubmit with contentation of ſpirit unto the Lord, laying your mouths in the duſt, juſtifying him with ſilence, but thus countend with God? for the Judge of all the world, cannot but do juſtly.</p>
+            <p>Yet further, I ſhall be more cloſe with you; whats become of your tears and prayers that you mingled, and breathed up to heaven in the dayes of your hardſhip? whats become of the fre<g ref="char:EOLhyphen"/>quent renewings your ſtrength in the Lord? Yea whats become of the magnified experiences of the preſence of a gratious God with you? crying, let this God be our God even unto death; muſt all theſe be cancelled and remembred no more; be all loſt and miſpent, becauſe the Lord walks not in ſuch wayes that you would preſcribe him, anſwers not your expectations?</p>
+            <p>Yea what lookings back unto Aegypt, and wiſhing our ſelves there again, becauſe we are kept ſo long in the wilderneſſe, and meet with ſo many diverſions we expected not?</p>
+            <p>Laſtly, whats become of your ancient zeal for the Lord Chriſt, his Goſpel, ordinances, and people? which was ſo freſh and live<g ref="char:EOLhyphen"/>ly, when you firſt vowed and profeſſed your ſelves to be the Lords people? what faintings and flaggings to be found with ſuch, whoſe zeal for the Lord of hoſts was uſed to warm the hearts and affections of others; even to a giving up of the work of the Lord? Is this to wait upon our God? to have our expecta<g ref="char:EOLhyphen"/>tions lively and pure upon him? truly, tis no more, nor leſſe, then
+<pb n="12" facs="tcp:152325:10"/>to live upon God no longer; not to wait upon him any longer, becauſe we cannot diſcern nor finde out the depths of his wayes. Were the inſide of our murmurings opened, they would be diſ<g ref="char:EOLhyphen"/>covered to have all theſe mixtures in them; oh what have we loſt by theſe repinings? how are they gone up like a cloud, and eclipſe the light and beauty of the wayes of God from us? yea how are they like to keep us in the wilderneſſe, we being now at the <hi>wa<g ref="char:EOLhyphen"/>ters of Marah,</hi> and that none of us, who came out of Aegypt, ſhould ever ſee the Canaan we expect? We are now indeed juſt in the condition as the people of God, ſet forth in <hi>Pſal.</hi> 106. all thoſe wilderneſſe provocations to be charged on us; ſoon <hi>forgetting the works of God, and not waiting for his counſell. v.</hi> 13, 14. <hi>Provoking him with our inventions:</hi> v. 29. <hi>Going ill with Moſes for our ſakes,</hi> v. 32. Thus we have followed our own counſels and inventions, and have not waited for the counſell of the Lord. And this leads me to the 4<hi rend="sup">th.</hi> evil, which is to be reprooved; our preſcribings to God; the next thing.</p>
+            <p>How buſie hath every one been, and now is, to preſcribe to God in his dealings towards us, even to mend every diſpenſa<g ref="char:EOLhyphen"/>tion of God; it had been better thus, or twere better thus; Is not this to limit the holy one of Iſrael, to preſcribe to him? Oh, how full of theſe inventions are we? As if we were to ſit in counſell with the great God, or as if God were to give an account of his wayes to us; plainly, every one, almoſt, hath a Church and State in this head; and if his way take not, all's loſt. Thus what do we, but even call into queſtion the government and ſoveraignty of God in the world, we would be inſtructors of God, or indeed God's to our ſelves. And now let me demand of you, as in the preſence of God, the diſcerner of all our hearts, whether all theſe evils may not in a great meaſure be charged upon us this day? and are not as a cloud witneſſes againſt us? and then tell me, is not this the way to kindle the wrath of the Lord againſt his people, and to provoke him to abhor his own inheritance, <hi>v.</hi> 40. of <hi>Pſal.</hi> 106. Oh, in a word, Is this to have our truſt, our expecta<g ref="char:EOLhyphen"/>tion, our ſubmiſſion, our contentation, our admiration towards our moſt wiſe and gracious God? Is this all the fruit of his own<g ref="char:EOLhyphen"/>ing us his inheritance, and our owning and atteſting him, in the face of all the world, to be our God for ever? Surely the Lord
+<pb n="13" facs="tcp:152325:10"/>looked for other things at our hands.</p>
+            <p>Thus I have endeavoured to ſet before you the evils that eat out the heart and life of this grace, and duty of waiting upon God, and ſhall leave you to the ſearching and proving your own hearts and wayes, and to bring them to the great refiner Jeſus Chriſt, that they may be purged away; And indeed were all of us as buſie about the depths of our own hearts, as we are about depths that are beyond, and above us, we ſhould ſee more of the glory of God in all his diſpenſations then we do, the Lord would more delight in us, to reveal himſelf unto us.</p>
+            <p>That which remains then will be an Exhortation,<note place="margin">Exhort:</note> backt with ſome few directions, that may help us in the excerciſe and fra<g ref="char:EOLhyphen"/>ming our ſpirits to the gracious poſture of waiting upon him. Let us, as hath been ſhewed, be convinced of all the evils that op<g ref="char:EOLhyphen"/>poſe it, that they bring a great deformity upon a Chriſtian, and conſider what a luſtre and beauty this grace adorns our profeſ<g ref="char:EOLhyphen"/>ſion with; how ſutable to the ſoveraginty of the Lord, and to the experiences we have had of him; and ſo laying our ſelves hum<g ref="char:EOLhyphen"/>bly and compoſedly at his footſtool, quietly waiting that he may be gracious unto us, I ſhall humbly offer ſome brief dire<g ref="char:EOLhyphen"/>ctions, and ſo leave it to the Lord to work it upon your ſpirits.</p>
+            <p n="1">1. What ever the wayes of men appear to you to be, look be<g ref="char:EOLhyphen"/>yond them, ſtay not in them; hence iſſueth much of our diſquiet<g ref="char:EOLhyphen"/>neſſe, that we look not beyond Inſtruments; but lifting up our eyes upon him, let us fall a juſtifying the righteous God, what ever the paths of men are; <hi>True and righteous are thy judgements,</hi> is the hallelujah of heaven, when the vials are powring forth, and ſo it ſhould be the return of the Saints on earth; let men do what they will, they do nothing but in Gods hand, though their ends do run croſſe unto his; this the firſt.</p>
+            <p n="2">2. Let us not alwayes go about to bring down God to us, I mean the heights and depths of God to our reaſonings; this is it that looſeth us before we are aware, and makes us at ſuch loſſe with God; tis ſafer to ſay with <hi>David, Such knowledge is too wonderfull for me, I cannot attain it:</hi> Beware of being too buſie with the ſanctuary of God, tis the way to make him walk at a greater diſtance from us.</p>
+            <p n="3">3. Let us be ſtill a caſting either way as to events, and be con<g ref="char:EOLhyphen"/>tented
+<pb n="14" facs="tcp:152325:11"/>that God may glorifie himſelf upon us, as is his own plea<g ref="char:EOLhyphen"/>ſure; So <hi>David,</hi> 2 <hi>Sam.</hi> 15.26. If thus, or thus, here am I; as that Scripture is excellently opened by<note n="*" place="margin">
+                  <hi>Mr.</hi> Vines.</note> one whoſe praiſe is in the Goſpel; if he make us an ark of ſafetie, honour, glory, and praiſe waiteth for him; but if he ſhall come with a full winde, and ſcat<g ref="char:EOLhyphen"/>ter the wheat and the chaffe together over the face of the earth; there we are; we ſhall be ready to juſtifie God in all he ſhall bring upon us.</p>
+            <p n="4">4. To be humble and diligent in enquiring a right way of God, now things are difficult before us, and full of ſtraits; we had need cloſely to wait upon him, for directing &amp; ſtrengthning ſecrets, that we may <hi>keep his way;</hi> The truth is, the diſtance that the godly keep at, and the ſeverall wayes we purſue, do ſuffici<g ref="char:EOLhyphen"/>ently witnes againſt us, that we have not been a waiting people, elſe we ſhould ſure have had ſuch communications of the coun<g ref="char:EOLhyphen"/>ſell of the Lord, that ſhould have kept us, at leaſt, in love and peace; there would be no ſuch waters of Marah troubling, and over flowing our ſpirits; the diviſions of <hi>Reuben</hi> would not be ſo great; oh that the Lord by me would ſet ſomething home upon your ſpirits, that might quicken you to this diligent enquiring a right way of God; that we go not into crooked paths, not to go aſide from the revealed rule; but waiting upon God, we may ſtill keep his way. <hi>Pſal.</hi> 37.34.</p>
+            <p n="5">5. To conſider the abſolute ſoveraignty and independencie of God; this will keep down our ſpirits from riſing up againſt him; you have <hi>David</hi> (on whoſe ſpirit the beauty of this grace ſhines forth almoſt in every Pſalm) much in this contemplation, when he was at a loſſe; <hi>God hath ſpoken once, twice have I heard it, that all power belongs unto God. Pſal.</hi> 62.11. Be ſtill, and know that I am God; I was dumbe, I opened not my mouth, becauſe thou didſt it: He had heard and conſidered ſo, that all power belong<g ref="char:EOLhyphen"/>ed unto God, therefore, ſtill, dumbe, not opening his mouth; not a word to ſay, againſt Gods diſpenſations: ſo mightily was he over-awed with the ſoveraignty of the Lord.</p>
+            <p n="6">6. To be much in contemplation of the wiſdome of God, there is the light and glory of his wiſdom, even in a chaos and confuſion of things as we apprehend them, could we diſcern the
+<pb n="15" facs="tcp:152325:11"/>ſeverall motions and concamerations, their ſeverall orderings, and their end in which they center; ſee 1 <hi>Sam.</hi> 2.3. <hi>Talk no more ſo exceeding proudly, let not arrogancie come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.</hi> How haſtie and inconſiderate ſoever men may be in their tranſactions, yet by him thoſe very actions are wiſely weighed.</p>
+            <p n="7">7. To concentre, and gather in all our wandring diſcuſſions into this period, that the Almighty ſoveraignty and wiſdom of the Lord are both engaged to work in a way of mercy, goodneſs and love for his people, to all that thus wait upon him; may we reaſon thus? what? a people in covenant with God, and have hard thoughts of him, and be reaſoning againſt his methods of providence? weigh that Scripture, <hi>Ezek.</hi> 14. v: laſt: <hi>You ſhall know that I have not done without cauſe, all that I have done in it.</hi> Oh could we thus wait, as a people in covenant, we ſhould at laſt diſcover that God hath not done without cauſe, all that is done upon us; that he had weighty reaſons for all his various and <hi>unexpected</hi> diſpenſations towards us; all in order to the fulfilling of excellent promiſes upon us.</p>
+            <p>And now, to cloſe all in a word or two; what a luſtre and ex<g ref="char:EOLhyphen"/>cellency would this grace, the exerciſe of it, derive upon all that fear God; And at what a deplorable diſtance doth the want of it ſet us at with our God, that <hi>we know not what to do:</hi> we fear a ſnare where ever we tread. Oh there is nothing in the world but this will bring down the Lord to delight and dwell with us, to make us his inheritance, to go before us in the wilderneſſe we are in, till we ſhall be at his feet in this poſture, and willing to follow him where ever he ſhall lead us.</p>
+            <p>The ſpirits of thoſe in the Nation who have owned the Lord for their God, do caſt different aſpects, ſome for great and glori<g ref="char:EOLhyphen"/>ous things, ready for a new Jeruſalem, even full of expectation to ſing the ſong of the chapter of the text, <hi>We have a ſtrong City, and God is appointing ſalvation for bulwarks:</hi> others, (and tis ſad to mention you in ſuch diſtinct characters) that we are like to paſſe through another fire to it, if ever at all we have it.</p>
+            <p>I dare not calculate the ſecret diſpenſations we lye under, but, as to the ſymptomes that are at preſent upon us, ſurely the holy God will ſome way or other purge out, in ſome meaſure, the ſelf
+<pb n="16" facs="tcp:152325:12"/>ſeekings, heart burnings, animoſities, murmurings, reaſoning he will bring us into ſtrait paths, and raiſe up our ſpirits quietly to wait for the mercies he will give forth, as hath been ſhewed. What ever the Lord hath to do upon us (now he is come out of his place, ſurely to bring about <hi>a work, a ſtrange work: Iſa.</hi> 28.21.) I ſay, what ever it be, twill be our wiſedome to have our loal girt, and our lamps burning. Which is the waiting poſture held forth by our bleſſed Lord in the Goſpel, ſtrengthned in the Lord, and ſhining in the beautie of holines; that we may enter. <hi>Arigh<g ref="char:EOLhyphen"/>teous nation keeping truth, with our minds ſtayed upon him,</hi> making him our everlaſting ſtrength, having quietly and contentedly waited for him; and then we ſhall ſing, <hi>Lo this is our God, we <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> waited for him, and he will ſave us: This is the Lord, we have waited for him, we will rejoyce, and be glad in his ſalvation.</hi> Iſa. 25.9.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="16" facs="tcp:152325:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
